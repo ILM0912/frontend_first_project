@@ -1,11 +1,7 @@
 .cards {
-    width: 920px;
+    width: 925px;
     margin: auto;
     padding: 0;
     display: flex;
-    justify-content: space-between;
-}
-
-.cards .cards__item:last-child {
-    margin-right: 0;
+    flex-wrap: wrap;
 }
