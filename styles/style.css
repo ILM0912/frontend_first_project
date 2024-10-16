@@ -6,30 +6,6 @@
   
 }
 
-.digits {
-  margin-top: 100px;
-  margin-bottom: 100px;
-}
-
-.section-title {
-  margin: 0 auto 20px auto;
-  text-align: center;
-  width: 60%;
-  line-height: 1.15;
-  font-size: 60px;
-  font-style: 600;
-}
-
-.section-subtitle {
-  margin: 0 auto;
-  text-align: center;
-  width: 60%;
-  line-height: 34px;
-  font-size: 24px;
-  font-style: normal;
-  font-weight: normal;
-}
-
 .table {
   display: flex;
   justify-content: space-between;
@@ -121,9 +97,7 @@
   padding-bottom: 90px;
 }
 
-.section-title_theme_dark, .section-subtitle_theme_dark{
-  color: white;
-}
+
 
 .table__cell_theme_dark {
   width: 200px;
