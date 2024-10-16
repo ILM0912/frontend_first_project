@@ -6,41 +6,6 @@
   
 }
 
-.table {
-  display: flex;
-  justify-content: space-between;
-  width: 1100px;
-  padding: 0;
-  margin: auto;
-}
-
-.table__cell {
-  list-style-type: none;
-  margin-left: 0;
-  padding: 0;
-}
-
-.table__cell_theme_white {
-  width: 250px;
-  margin-top: 60px;
-}
-
-.table__heading {
-  margin: 0;
-  line-height: 1.15;
-  font-size: 24px;
-  font-style: 600;
-}
-
-.table__text {
-  margin: 0;
-  margin-top: 20px;
-  line-height: 1.2;
-  font-size: 18px;
-  font-style: normal;
-  font-weight: normal;
-}
-
 .feynman {
   height: 790px;
   position: relative;
