@@ -28,14 +28,16 @@
 @import url(../blocks/table/table.css);
 @import url(../blocks/table/__cell/table__cell.css);
 @import url(../blocks/table/__cell/_theme/table__cell_theme_white.css);
+@import url(../blocks/table/__cell/_theme/table__cell_theme_dark.css);
 @import url(../blocks/table/__heading/table__heading.css);
 @import url(../blocks/table/__text/table__text.css);
 
-@import url();
-@import url();
-@import url();
-@import url();
-@import url();
+@import url(../blocks/feynman/feynman.css);
+@import url(../blocks/feynman/__image/feynman__image.css);
+@import url(../blocks/feynman/__link/feynman__link.css);
+@import url(../blocks/feynman/__subtitile/feynman__subtitle.css);
+@import url(../blocks/feynman/__title/feynman__title.css);
+
 @import url();
 @import url();
 @import url();
