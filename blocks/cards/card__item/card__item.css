@@ -1,0 +1,6 @@
+.cards__item {
+    width: min-content;
+    margin-top: 60px;
+    list-style: none;
+    margin-right: 100px;
+}
