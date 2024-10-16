@@ -9,15 +9,15 @@
 
 @import url(../blocks/link/link.css);
 
-@import url();
-@import url();
-@import url();
-@import url();
-@import url();
-@import url();
-@import url();
-@import url();
-@import url();
+@import url(../blocks/description/description.css);
+
+@import url(../blocks/two-columns/two-columns.css);
+@import url(../blocks/two-columns/__brief/two-columns__brief.css);
+@import url(../blocks/two-columns/__main-text/two-columns__main-text.css);
+@import url(../blocks/two-columns/__paragraph/two_columns__paragraph.css);
+@import url(../blocks/two-columns/__paragraph/_margin_bottom/two-columns__paragrapg_margin_bottom.css);
+@import url(../blocks/two-columns/__span-accent/__span-accent.css);
+
 @import url();
 @import url();
 @import url();
