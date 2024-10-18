@@ -1,12 +1,6 @@
 .cards__image {
-    height: 100%;
-    width: 100%;
-}
-
-.circle {
     width: 160px;
     height: 160px;
     margin: 60px 40px 0;
     border-radius: 50%;
-    overflow: hidden;
 }
